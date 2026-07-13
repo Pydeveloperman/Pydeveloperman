@@ -64,18 +64,18 @@ drwxr-xr-x  hotel-network/        # Multi-floor VLAN topology, Mikrotik/Cisco
 ### `> ./stats.sh --run`
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00ff41&icon_color=00ff41&text_color=00ff41" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=github-dark-blue&hide_border=true&background=000000&ring=00ff41&fire=00ff41&currStreakLabel=00ff41" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=pydeveloperman&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00ff41&icon_color=00ff41&text_color=00ff41" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pydeveloperman&theme=github-dark-blue&hide_border=true&background=000000&ring=00ff41&fire=00ff41&currStreakLabel=00ff41" width="48%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00ff41&text_color=00ff41" width="48%"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=USERNAME&theme=algolia&no-frame=true&row=2&column=3&background=000000" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pydeveloperman&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00ff41&text_color=00ff41" width="48%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=pydeveloperman&theme=algolia&no-frame=true&row=2&column=3&background=000000" width="48%"/>
 </p>
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/pydeveloperman/pydeveloperman/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
