@@ -1,0 +1,6 @@
+{
+  "name": "Nur",
+  "description": "Islomiy hayot yo'riqnomasi va kundalik amallar platformasi (Islamic lifestyle and daily progress app)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
